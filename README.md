@@ -1,7 +1,5 @@
 # Visual-Assistant
 
-# Summary
-
 Visual Assistant is an interface which will give the scene understanding to its users by using machine learning and image processing algorithms on live video. One of our users is visually impaired people, which can now see. They can now also get the understanding of their surroundings without actually seeing it and without the aid of any another person. This interface will be used in a mobile application to efficiently generate speech in real time scenario. Through this the blind persons can be able to understand their environment by getting the speech from real time video. The application will generate speech on the basis of objects detected, the distance of objects from the person and nearby objects and will learn the environment by combining the knowledge of all objects in the environment. The application will not only make them imagine their surroundings but also suggest them the possible actions, a person can normally take in a specific environment.
 Moreover, our interface can be used by other systems to get the knowledge of the environment in an efficient way.
 
@@ -19,19 +17,14 @@ Visual Assistant is an android application for visually impaired people that wil
 [1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. Visited: November 2019.
 https://pjreddie.com/darknet/yolo/
 
-
 [2] https://keras.io/api/applications/inceptionresnetv2/
-
 
 [3] https://priuschat.com/attachments/analysis-of-blind-pedestrian-deaths-and-
 injuries-from-motor-vehicle-crashes-revised-doc.10892/
 
-
 [4] https://storage.googleapis.com/openimages/web/index.html
-
 
 [5] Arun Ponnusamy. High level Computer Vision Library for Python. Visited: April 15, 2020.
 https://github.com/arunponnusamy/cvlib
-
 
 [6] http://web.mit.edu/torralba/www/indoor.html
