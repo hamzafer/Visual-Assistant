@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1AJePC6a89pxQfZOh5KPx2XH62YeReJF2?usp=sha
 
 # References
 
-[1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. Visited: November 2019 https://pjreddie.com/darknet/yolo/
+[1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement (https://pjreddie.com/darknet/yolo/)
 
 [2] https://keras.io/api/applications/inceptionresnetv2/
 
@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1AJePC6a89pxQfZOh5KPx2XH62YeReJF2?usp=sha
 
 [4] https://storage.googleapis.com/openimages/web/index.html
 
-[5] Arun Ponnusamy. High level Computer Vision Library for Python. Visited: April 15, 2020. https://github.com/arunponnusamy/cvlib
+[5] Arun Ponnusamy. High level Computer Vision Library for Python (https://github.com/arunponnusamy/cvlib)
 
 [6] http://web.mit.edu/torralba/www/indoor.html
 
