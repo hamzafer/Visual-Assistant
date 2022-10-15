@@ -1,0 +1,80 @@
+0,airport terminal,null
+1,landing field,null
+2,airplane cabin,null
+3,amusement park,null
+4,skating rink,null
+5,arena,null
+6,art room,room
+7,assembly line,null
+8,baseball field,play ground
+9,football field,play ground
+10,soccer field,play ground
+11,volleyball court,play ground
+12,golf course,play ground
+13,athletic field,play ground
+14,ski slope,null
+15,baseball court,play ground
+16,gymnasium,null
+17,bowling alley,null
+18,swimming pool,null
+19,boxing ring,null
+20,race course,null
+21,farm,garden
+22,orchard,garden
+23,pasture,garden
+24,countryside,garden
+25,greenhouse,null
+26,TV studio,office
+27,temple,null
+28,pavilion,null
+29,tower,null
+30,palace,null
+31,church,null
+32,street,street
+33,dinning room,dining room
+34,coffee shop,null
+35,kitchen,kitchen
+36,plaza,null
+37,laboratory,null
+38,bar,null
+39,conference room,meeting room
+40,office,office
+41,hospital,null
+42,ticket booth,null
+43,campsite,null
+44,music studio,null
+45,elevator,null
+46,garden,garden
+47,construction site,null
+48,general store,general store
+49,clothing store,null
+50,bazaar,null
+51,library ,null
+52,classroom,classroom
+53,ocean,null
+54,firefighting,null
+55,gas station,null
+56,landfill_2,null
+57,balcony,null
+58,recreation room,room
+59,discotheque,null
+60,museum,null
+61,desert,null
+62,raft,null
+63,forest,null
+64,bridge,null
+65,residential_neighborhood,room
+66,auto showroom,null
+67,lake,null
+68,aquarium,null
+69,aqueduct,null
+70,banquet hall,null
+71,bedchamber,bedroom
+72,mountain,null
+73,platform,null
+74,lawn,garden
+75,nursery,null
+76,beauty salon,room
+77,repair shop,null
+78,rodeo,null
+79,ice engraving,null
