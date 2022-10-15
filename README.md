@@ -7,12 +7,15 @@ Moreover, our interface can be used by other systems to get the knowledge of the
 
 Visual Assistant is an android application for visually impaired people that will identify objects and their positions with respect to camera in real time. It will inform user about the objects in his environment and their locations in the form of speech. Let’s suppose, there is a cup and chair 3ft and 5.5ft away from the user respectively. The application will inform user that “There’s cup 3ft away from you and chair 5.5ft away from you”. Moreover, on the basis of this information it will also inform the user about the environment he is currently present in. Let’s suppose a user is sitting in a classroom environment. The system will recognize the environment and will inform him that he’s sitting in a classroom environment. Apart from that, Visual Assistant will also act as an interface which can be used by other systems which requires real time object identification and localization. For example, it can also be used in auto-driving automobiles for environment detection, robots, and major systems like Facebook, Instagram etc. The system will detect object, find its relative distance, recognize it, and then convert this information into voice or text according to user’s requirement.
 
+# Concept
 
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/45764331/195984182-d9c0bfc8-9b20-450e-b671-5f8209a98960.png">
 
+# Motivation
+
+Through this project, we want to contribute to the society by helping the society’s special people who are unable to truly visualize their surroundings. This will cause a reduction in number of incidents directly or indirectly involving them. Moreover, we also want to contribute to the industry by providing an efficient environment recognizer which can be used in robotics and larger systems.
 
 # References
-
 
 [1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. Visited: November 2019.
 https://pjreddie.com/darknet/yolo/
