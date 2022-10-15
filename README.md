@@ -22,7 +22,8 @@ Visual Assistant is an android application for visually impaired people that wil
 # Trained Models
 
 ### Path
-backend/Classes/utills/model.11-0.6262.hdf5.
+backend/Classes/utills/model.11-0.6262.hdf5
+
 backend/Classes/utills/yolov3.weights
 
 ### Files
@@ -30,17 +31,21 @@ https://drive.google.com/drive/folders/1AJePC6a89pxQfZOh5KPx2XH62YeReJF2?usp=sha
 
 # References
 
-[1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. Visited: November 2019.
-https://pjreddie.com/darknet/yolo/.
-[2] https://keras.io/api/applications/inceptionresnetv2/.
-[3] https://priuschat.com/attachments/analysis-of-blind-pedestrian-deaths-and-injuries-from-motor-vehicle-crashes-revised-doc.10892/.
-[4] https://storage.googleapis.com/openimages/web/index.html.
-[5] Arun Ponnusamy. High level Computer Vision Library for Python. Visited: April 15, 2020. https://github.com/arunponnusamy/cvlib.
-[6] http://web.mit.edu/torralba/www/indoor.html.
+[1] Joseph Redmon, Ali Farhadi. YOLOv3: An Incremental Improvement. Visited: November 2019 https://pjreddie.com/darknet/yolo/
+
+[2] https://keras.io/api/applications/inceptionresnetv2/
+
+[3] https://priuschat.com/attachments/analysis-of-blind-pedestrian-deaths-and-injuries-from-motor-vehicle-crashes-revised-doc.10892/
+
+[4] https://storage.googleapis.com/openimages/web/index.html
+
+[5] Arun Ponnusamy. High level Computer Vision Library for Python. Visited: April 15, 2020. https://github.com/arunponnusamy/cvlib
+
+[6] http://web.mit.edu/torralba/www/indoor.html
 
 # Technologies
 
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/45764331/195984722-ef6b755a-fde7-4ebf-bcbe-9905e751ba25.png) | ![image](https://user-images.githubusercontent.com/45764331/195984729-e9e96afd-0f08-4990-bc50-d9fb7826b5f0.png)
-
-
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/45764331/195984722-ef6b755a-fde7-4ebf-bcbe-9905e751ba25.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/45764331/195984729-e9e96afd-0f08-4990-bc50-d9fb7826b5f0.png" width="100" /> 
+</p>
