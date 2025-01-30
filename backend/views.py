@@ -19,10 +19,10 @@ class RecognitionAPIView(APIView):
         image_data = request.data['img']
         env = request.data['env']
         image = base64.b64decode(image_data)
-        filename = 'some_image.jpg'
+        filename = 'images/some_image.jpg'
         with open(filename, 'wb') as f:
             f.write(image)
-        image = cv2.imread('some_image.jpg')
+        image = cv2.imread(filename)
         controller = ServerController()
         image_result = controller.getEnvironmentUnderstanding(image, env)
         print(image_result)
@@ -35,9 +35,10 @@ class RecognitionAPIView(APIView):
         classes = []
         for obj in image_result['objects']:
             classes.append(obj.name)
-        cv2.imwrite("image1.jpg", image_result['final_image'])
+        image_name = "images/image1.jpg"
+        cv2.imwrite(image_name, image_result['final_image'])
         result = ''
-        with open("image1.jpg", "rb") as imageFile:
+        with open(image_name, "rb") as imageFile:
             result = base64.b64encode(imageFile.read()).decode()
         resultant_image = ImageFile(result, classes, image_result['distances'])
         serialized_obj = ImageSerializer(resultant_image)
